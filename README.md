@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yong+Chae+Kim&fontSize=60" width="700" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yong+Chae+Kim&fontSize=60" width="600" />
 </p>
 
 <!-- 🧑‍💻 깃허브 프로필 카드 -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=97yong&theme=aura_dark" width="650" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=97yong&theme=aura_dark" width="550" />
 </p>
 <!-- 📊 깃허브 활동 통계 카드 -->
 <p align="center">
