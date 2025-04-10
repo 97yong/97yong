@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yong+Chae+Kim&fontSize=60" width="600" />
+  <a href="https://www.yongchae.com" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yong+Chae+Kim&fontSize=60" width="600" />
+  </a>
 </p>
 
 <!-- 🧑‍💻 깃허브 프로필 카드 -->
