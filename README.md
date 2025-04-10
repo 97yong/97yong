@@ -8,8 +8,8 @@
 </p>
 <!-- 📊 깃허브 활동 통계 카드 -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=97yong&theme=aura_dark" width="295"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=97yong&theme=aura_dark"  width="295" />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=97yong&theme=aura_dark" width="295"/> -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=97yong&theme=aura_dark"  width="295" /> -->
 </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
