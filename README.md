@@ -4,7 +4,7 @@
 
 <!-- 🧑‍💻 깃허브 프로필 카드 -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=97yong&theme=aura_dark" width="700" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=97yong&theme=aura_dark" width="650" />
 </p>
 <!-- 📊 깃허브 활동 통계 카드 -->
 <p align="center">
@@ -20,3 +20,28 @@
   <img src="https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
 </div>
+
+<!-- Contact -->
+<h3 align="center">📫 Contact 📫</h3>
+<p align="center">
+  <!-- Homepage -->
+  <a href="https://www.yongchae.com" target="_blank">
+    <img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage Badge"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:313nara@snu.ac.kr">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=qex9tLkAAAAJ&hl=ko" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-3366CC?style=for-the-badge&logo=Google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yong-chae-kim-89720b229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
