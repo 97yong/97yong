@@ -25,7 +25,7 @@
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a>&nbsp;
-  <br><br>
+  <br>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>&nbsp;
